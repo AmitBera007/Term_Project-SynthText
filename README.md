@@ -1,5 +1,5 @@
 # SynthText: Generating Emotionally Expressive Talking Faces From Image And Text
-SynthText is a neural network system that generates talking face videos from textual input. Text-driven talking face generation is a cutting-edge approach to producing emotionally expressive avatars. This system ensures that facial expressions match the intended emotion while generating realistic and synchronized speech-driven movements.
+Text-driven talking face generation is a cutting-edge approach to producing emotionally expressive avatars. SynthText is a neural network system that generates talking face videos from textual input. This system ensures that facial expressions match the intended emotion while generating realistic and synchronized speech-driven movements.
 
 
 ---
